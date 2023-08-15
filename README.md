@@ -33,3 +33,4 @@ maybe you wanna do it the good old-fashioned way?
 
 ![Curdal's GitHub stats](https://github-readme-stats-87pe.vercel.app/api?username=curdal&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats-87pe.vercel.app/api/top-langs?username=curdal&layout=compact&theme=dracula)
+![Harlok's wakatime stats](https://github-readme-stats-87pe.vercel.app/api/wakatime?username=curdal9201&layout=compact&theme=dracula)

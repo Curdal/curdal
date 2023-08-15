@@ -31,5 +31,5 @@ maybe you wanna do it the good old-fashioned way?
 
 ### [👉 Pop me a message](https://forms.gle/kEttPuLpRZcEzmZ66)
 
-![Curdal's GitHub stats](https://github-readme-stats.vercel.app/api?username=curdal&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=curdal&layout=compact&theme=dracula)
+![Curdal's GitHub stats](https://github-readme-stats-87pe.vercel.app/api?username=curdal&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats-87pe.vercel.app/api/top-langs?username=curdal&layout=compact&theme=dracula)

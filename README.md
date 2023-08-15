@@ -1,19 +1,3 @@
-<!--
-### Hi there 👋
-**Curdal/curdal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # Hi, I'm Curtis
 
 I am currently a __Full stack Developer__ at [__Two Three Bird__](https://github.com/twothreebird).
@@ -31,6 +15,42 @@ maybe you wanna do it the good old-fashioned way?
 
 ### [👉 Pop me a message](https://forms.gle/kEttPuLpRZcEzmZ66)
 
-![Curdal's GitHub stats](https://github-readme-stats-87pe.vercel.app/api?username=curdal&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats-87pe.vercel.app/api/top-langs?username=curdal&layout=compact&theme=dracula)
-![Harlok's wakatime stats](https://github-readme-stats-87pe.vercel.app/api/wakatime?username=curdal9201&layout=compact&theme=dracula)
+<br />
+
+<picture>
+  <source
+    srcset="https://github-readme-stats-87pe.vercel.app/api?username=curdal&show_icons=true&hide_title=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+    height=150 width=790
+  />
+  <source
+    srcset="https://github-readme-stats-87pe.vercel.app/api?username=curdal&show_icons=true&hide_title=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    height=150 width=790
+  />
+  <img height=150 width=790 src="https://github-readme-stats-87pe.vercel.app/api?username=curdal&show_icons=true&hide_title=true" />
+</picture>
+<br />
+
+<picture>
+  <source
+    srcset="https://github-readme-stats-87pe.vercel.app/api/wakatime?username=curdal9201&layout=compact&langs_count=6&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats-87pe.vercel.app/api/wakatime?username=curdal9201&layout=compact&langs_count=6"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img align="center" src="https://github-readme-stats-87pe.vercel.app/api/wakatime?username=curdal9201&layout=compact&langs_count=6" />
+</picture>
+<picture>
+  <source
+    srcset="https://github-readme-stats-87pe.vercel.app/api/top-langs?username=curdal&layout=compact&langs_count=6&card_width=320&custom_title=Preferred%20Toolkit&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats-87pe.vercel.app/api/top-langs?username=curdal&layout=compact&langs_count=6&card_width=320&custom_title=Preferred%20Toolkit"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img align="center" src="https://github-readme-stats-87pe.vercel.app/api/top-langs?username=curdal&layout=compact&langs_count=6&card_width=320&custom_title=Preferred%20Toolkit" />
+</picture>

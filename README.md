@@ -1,19 +1,26 @@
 # Hi, I'm Curtis
 
-I am currently a __Full stack Developer__ at [__Two Three Bird__](https://github.com/twothreebird).
+I am currently a **Full stack Developer** at [**Two Three Bird**](https://github.com/twothreebird).  
+Building reliable web apps, clean Dockerized workflows, and keeping AWS happy from home.
 
-A little bit about me:
+### Now & About
+
 ```txt
-- I'm a Laravel & Docker fanboy (if I must say so myself 😆)
-- I strongly dislike Wordpress (just no ok? 🙅‍♂️)
-- AWS is where the party is at (whoop whoop 🎉🎉)
-- Working from Home saves everybody ⌚ & 💵
+based:     South Africa · Remote/Hybrid
+focus:     Shipping Laravel apps, Dockerized setups & AWS infra
+off_clock: Good coffee ☕ & gaming 🎮
+hot_take:  WordPress (just no ok? 🙅‍♂️)
 ```
 
-If you feel like reaching out, get me on ![LinkedIn](https://www.linkedin.com/in/curtis-page-a63a7b74) or ...
-maybe you wanna do it the good old-fashioned way?
+### Toolkit & Vibe
 
-### [👉 Pop me a message](https://forms.gle/kEttPuLpRZcEzmZ66)
+`PHP` · `Laravel` · `Docker` · `AWS` · `Claude` · `Antigravity` · `Remote/Hybrid` · ~~`WordPress`~~ 🙅‍♂️
+
+### Reach Out
+
+- 🌐 [curdal.github.io](https://curdal.github.io/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/curtis-page-a63a7b74)
+- 👉 [Pop me a message](https://forms.gle/kEttPuLpRZcEzmZ66)
 
 <br />
 

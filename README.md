@@ -19,38 +19,38 @@ maybe you wanna do it the good old-fashioned way?
 
 <picture>
   <source
-    srcset="https://github-readme-stats-87pe.vercel.app/api?username=curdal&show_icons=true&hide_title=true&theme=dark"
+    srcset="https://github-stats.curdal.co.za/api?username=curdal&show_icons=true&hide_title=true&theme=dark"
     media="(prefers-color-scheme: dark)"
     height=150 width=790
   />
   <source
-    srcset="https://github-readme-stats-87pe.vercel.app/api?username=curdal&show_icons=true&hide_title=true"
+    srcset="https://github-stats.curdal.co.za/api?username=curdal&show_icons=true&hide_title=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     height=150 width=790
   />
-  <img height=150 width=790 src="https://github-readme-stats-87pe.vercel.app/api?username=curdal&show_icons=true&hide_title=true" />
+  <img height=150 width=790 src="https://github-stats.curdal.co.za/api?username=curdal&show_icons=true&hide_title=true" />
 </picture>
 <br />
 
 <picture>
   <source
-    srcset="https://github-readme-stats-87pe.vercel.app/api/wakatime?username=curdal9201&layout=compact&langs_count=6&theme=dark"
+    srcset="https://github-stats.curdal.co.za/api/wakatime?username=curdal9201&layout=compact&langs_count=6&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats-87pe.vercel.app/api/wakatime?username=curdal9201&layout=compact&langs_count=6"
+    srcset="https://github-stats.curdal.co.za/api/wakatime?username=curdal9201&layout=compact&langs_count=6"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img align="center" src="https://github-readme-stats-87pe.vercel.app/api/wakatime?username=curdal9201&layout=compact&langs_count=6" />
+  <img align="center" src="https://github-stats.curdal.co.za/api/wakatime?username=curdal9201&layout=compact&langs_count=6" />
 </picture>
 <picture>
   <source
-    srcset="https://github-readme-stats-87pe.vercel.app/api/top-langs?username=curdal&layout=compact&langs_count=6&card_width=320&custom_title=Preferred%20Toolkit&theme=dark"
+    srcset="https://github-stats.curdal.co.za/api/top-langs?username=curdal&layout=compact&langs_count=6&card_width=320&custom_title=Preferred%20Toolkit&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats-87pe.vercel.app/api/top-langs?username=curdal&layout=compact&langs_count=6&card_width=320&custom_title=Preferred%20Toolkit"
+    srcset="https://github-stats.curdal.co.za/api/top-langs?username=curdal&layout=compact&langs_count=6&card_width=320&custom_title=Preferred%20Toolkit"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img align="center" src="https://github-readme-stats-87pe.vercel.app/api/top-langs?username=curdal&layout=compact&langs_count=6&card_width=320&custom_title=Preferred%20Toolkit" />
+  <img align="center" src="https://github-stats.curdal.co.za/api/top-langs?username=curdal&layout=compact&langs_count=6&card_width=320&custom_title=Preferred%20Toolkit" />
 </picture>

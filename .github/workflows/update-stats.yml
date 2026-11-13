@@ -7,17 +7,17 @@ on:
 
 jobs:
   update-cards:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     permissions:
       contents: write
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
 
       - name: Generate GitHub stats (light)
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=curdal&show_icons=true&hide_title=true
+          options: username=curdal&show_icons=true&hide_title=true&count_private=true
           path: profile/stats-light.svg
           token: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
           fail_on_error: true
@@ -26,7 +26,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=curdal&show_icons=true&hide_title=true&theme=dark
+          options: username=curdal&show_icons=true&hide_title=true&count_private=true&theme=dark
           path: profile/stats-dark.svg
           token: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
           fail_on_error: true

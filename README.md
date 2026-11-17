@@ -6,15 +6,23 @@ Building reliable web apps, clean Dockerized workflows, and keeping AWS happy fr
 ### Now & About
 
 ```txt
-based:     South Africa · Remote/Hybrid
-focus:     Shipping Laravel apps, Dockerized setups & AWS infra
+based:     Cape Town · South Africa 📍
+focus:     Shipping Laravel apps, Dockerized setups & AWS infra 🚀
 off_clock: Good coffee ☕ & gaming 🎮
-hot_take:  WordPress (just no ok? 🙅‍♂️)
+hot_take:  Boring tech ships. 💡
 ```
 
 ### Toolkit & Vibe
 
-`PHP` · `Laravel` · `Docker` · `AWS` · `Claude` · `Antigravity` · `Remote/Hybrid` · ~~`WordPress`~~ 🙅‍♂️
+`PHP` · `Laravel` · `MySQL` · `Docker` · `AWS` · `Terraform` · `Cloudflare` · `GitHub` · `Claude` · `Antigravity` · `Remote/Hybrid` · `Open to freelance`
+
+### Featured Work
+
+- 🧾 **billing** — Multi-tenant Laravel app that chases overdue invoices for SMEs: accounting sync, WhatsApp reminders, one-tap payment links *(building)*
+- 🌍 **trade** — Legal-intelligence search over customs & tariff regulation: FastAPI, Nuxt, Postgres + pgvector *(building)*
+- ☁️ **aws** — Terraform-managed AWS platform (ECS, multi-AZ VPC) for a fleet of Laravel apps
+- 🐳 **docker** — Shared, versioned PHP/Docker base images used across every service in the fleet
+- 🔐 **security** — Internal security-awareness & policy-acknowledgement platform: Laravel, Livewire, tamper-evident audit ledger
 
 ### Reach Out
 

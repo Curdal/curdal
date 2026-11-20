@@ -28,7 +28,7 @@ hot_take:  Boring tech ships. 💡
 
 - 🌐 [curdal.co.za](https://curdal.co.za/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/curtis-page-a63a7b74)
-- 👉 [Pop me a message](https://forms.gle/kEttPuLpRZcEzmZ66)
+- 👉 [Pop me a message](mailto:hello@curdal.co.za?subject=Freelance%20Inquiry)
 
 <br />
 

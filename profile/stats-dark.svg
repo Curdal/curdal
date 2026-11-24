@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Curtis Page&#39;s GitHub Stats, Rank: B+</title>
-        <desc id="descId">Total Stars Earned: 0, Total Commits  (last year) : 2167, Total PRs: 756, Total Issues: 4, Contributed to (last year): 31</desc>
+        <desc id="descId">Total Stars Earned: 0, Total Commits  (last year) : 2179, Total PRs: 760, Total Issues: 4, Contributed to (last year): 31</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 115.71588100455466;
+        stroke-dashoffset: 115.71241588315665;
       }
     }
   
@@ -185,7 +185,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs"
-      >756</text>
+      >760</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
